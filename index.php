@@ -9,7 +9,7 @@ function printN ($N)
 }
 printN(10000000);
 
-// 比上面快十倍 占用空间大
+// 占用空间大
 function printN1 ($N)
 {
     if ($N) {
